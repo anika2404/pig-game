@@ -2,6 +2,7 @@
 🎲 Dice Game (Multiplayer Turn-Based Game)
 
 This is a simple multiplayer dice game built with Python. Players take turns rolling a die to accumulate points. The first player to reach 50 points wins the game.
+
 📜 Game Rules
 
 The game supports 2 to 4 players.
@@ -34,6 +35,7 @@ Allows them to roll or hold
 Keeps track of scores
 
 Ends when a player's score reaches 50.
+
 📌 Features
 
 Input validation for number of players
